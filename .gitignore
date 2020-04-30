@@ -1,3 +1,4 @@
 /data
 *.pkl
 *.h5
+*.csv
