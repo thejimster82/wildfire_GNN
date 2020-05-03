@@ -2,3 +2,5 @@
 *.pkl
 *.h5
 *.csv
+*.hdf5
+*.zip
