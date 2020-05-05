@@ -8,6 +8,7 @@
 ### Jupyter NB Files ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/.ipynb_checkpoints
 
 # IPython
 profile_default/
