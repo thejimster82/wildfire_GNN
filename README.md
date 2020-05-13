@@ -9,6 +9,6 @@ recent fires in the area. Our novel approach applies various graphneural-network
 each individual fire, in addition to fires close to it spatially and
 temporally, to predict the cause of any given wildfire. We utilize
 24 years of geo-referenced wildfire data augmented with global
-population center data and NOAA GSOD weather data. For more details, please see [our final document](.\documents\A_Graph_Neural_Network_Approach_to_Wildfire_Cause_Prediction.pdf).
+population center data and NOAA GSOD weather data. For more details, please see [our final document](https://github.com/thejimster82/wildfire_GNN/blob/master/documents/A_Graph_Neural_Network_Approach_to_Wildfire_Cause_Prediction.pdf).
 ## Tools
 This project was developed in Python using [Tensorflow, Keras](https://www.tensorflow.org/guide/keras), and [Spektral](https://spektral.graphneural.network/). The data used to generate our results is available upon request.
